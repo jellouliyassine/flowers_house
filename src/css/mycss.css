@@ -1,0 +1,54 @@
+.mydiv{
+   
+    padding-right: 30px;
+    padding-bottom: 70px;
+    padding-left: 30px;
+    border-radius:0px 0px 25px 25px;
+    margin-right: 30px;
+    margin-bottom: 70px;
+    margin-left: 30px;
+background-size: 100% 100%;
+    background-image: url('../layout/spring.jpg');
+}
+.mynav{
+background-color: #55AC4B;
+font-color:white;
+border-radius:10px;
+font-size:15px;
+font-family: serif;
+
+}
+.cart{
+    padding-left:490%;
+}
+.admindiv{
+
+    border-radius:0px 0px 25px 25px;
+    text-align: center;
+   margin-left:200px;
+   margin-right:200px;
+   margin-top:50px;
+}
+.d{
+    background-color:red;
+}
+/* Add custom CSS styles for the navbar */
+.custom-navbar {
+    background-color:#037515;
+    /* Green border */
+    height:30px;
+  }
+  
+  .custom-navbar .navbar-nav .nav-link {
+    color: white; /* White text */
+    transition: color 0.3s; /* Add a transition for smooth color change */
+    
+  }
+  
+  .custom-navbar .navbar-nav .nav-link:hover {
+    background-color: white; /* White background on hover */
+    color: #037515; /* Green text on hover */
+  
+    border-radius:6px;
+  }
+  
